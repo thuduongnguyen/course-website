@@ -1,7 +1,7 @@
 # Course website
 
 ### Deployment
-Link
+Link: https://thuduongnguyen.github.io/course-website/
 
 ### Techniques
 - HTML
